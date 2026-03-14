@@ -1,8 +1,8 @@
-# Technical Mavde
+# T-MavLabs
 
 > National-level product engineering team building AI-driven infrastructure systems.
 
-Technical Mavde is a 4-member high-performance engineering team focused on solving civic, infrastructure, fintech, and geospatial challenges through scalable, production-grade systems.
+T-MavLabs (or Team Technical Mavde) is a 4-member high-performance engineering team focused on solving civic, infrastructure, fintech, and geospatial challenges through scalable, production-grade systems.
 
 We specialize in turning ambiguous national problem statements into deployable platforms.
 
